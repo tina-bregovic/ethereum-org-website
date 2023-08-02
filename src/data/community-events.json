@@ -1,5 +1,14 @@
 [
   {
+    "title": "ETH LONDON HACKATHON",
+    "to": "https://www.encode.club/eth-london",
+    "sponsor": "ETH LONDON",
+    "location": "London, United Kingdom",
+    "description": "A three-day hackathon in the heart of the Capital organised by Encode Club in collaboration with ETH London, with a purpose to build, network and potentially win big!",
+    "startDate": "2023-10-27",
+    "endDate": "2023-10-29"
+  },
+  {
     "title": "ETHKL 2023",
     "to": "https://hack.ethkl.org/",
     "sponsor": null,
